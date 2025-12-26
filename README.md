@@ -3,6 +3,8 @@
 
 ### Student Details
 - Name: Given Kanchalu
+- student number: 2024126065
+- intake: December 2024
 - Course: ICT 214 – Programming with Python
 - Practical: End of Term Test
 
